@@ -1,6 +1,6 @@
 # Mobile-Maze
 
-# [Electronics Club IITG Project](https://www.iitg.ac.in/stud/gymkhana/technical/home/ElectronicsHome.html)
+
 
 # Overview 
 - Mobile Maze Game uses Arduino to create a balanced maze toy that uses Bluetooth to connect the phone to control the angle of the maze and navigates the ball to reach the portal at the end to win the game.
